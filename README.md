@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Deadlars 👋
 
 ### 16 y.o. Programmer & Cybersecurity Enthusiast 🔒
 
