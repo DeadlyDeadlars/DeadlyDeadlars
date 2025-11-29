@@ -64,11 +64,16 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeadlyDeadlars&show_icons=true&theme=radical&hide_border=true&count_private=true)
+# 🌐 DeadlyDeadlars GitHub Dashboard
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyDeadlars&layout=compact&theme=radical&hide_border=true)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeadlyDeadlars&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&count_private=true"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=DeadlyDeadlars&theme=midnight-purple&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DeadlyDeadlars&theme=radical&hide_border=true)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyDeadlars&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
 
 </div>
 
