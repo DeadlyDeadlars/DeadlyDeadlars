@@ -68,9 +68,10 @@ me.say_hi()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyDeadlars&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeadlyDeadlars&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DeadlyDeadlars&theme=radical&hide_border=true)
 
 </div>
+
 
 ---
 
